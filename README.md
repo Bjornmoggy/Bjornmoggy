@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bjornmoggy
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning KCA University Nairobi
-- 💞️ I’m looking to collaborate on Application programming 
+- 💞️ I’m looking to collaborate on Application Programming 
 - 📫 How to reach me zachgitau001@gmail.com 
 
 <!---
